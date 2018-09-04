@@ -4,4 +4,3 @@
 *.egg-info/
 build
 dist
-results
